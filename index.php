@@ -12,6 +12,8 @@
     	<b><h1>REGISTRO</h1></b>
     	<input type="text" name="name" placeholder="Nombre del Usuario">
     	<input type="email" name="email" placeholder="Correo">
+        <input type="text" name="Telefono" placeholder="Telefono">
+        <input type="text" name="area_trabajo" placeholder="Lugar de Trabajo">
     	<input type="submit" name="register">
     </form>
         <?php 
